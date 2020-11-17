@@ -1,0 +1,4 @@
+{
+  "api_url" : "http://test.com:8002/api/",
+  "authorization": "Basic YXNrZWxlFkeTEyMw=="
+}
